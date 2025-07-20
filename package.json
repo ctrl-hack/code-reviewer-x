@@ -2,7 +2,7 @@
   "name": "code-reviewer-x",
   "module": "index.ts",
   "type": "module",
-  "description": "A code review AI tool with multiple  AI tools integration",
+  "description": "A code review AI tool with multiple AI tools integration",
   "keywords": ["code review", "code reviewer", "AI", "code analysis"],
   "bugs": {
     "url": "https://github.com/ctrl-hack/code-reviewer-x/issues"
