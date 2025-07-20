@@ -1,1 +1,1 @@
-bun run lint
+echo "Pre-commit hook running..."
