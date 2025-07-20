@@ -1,0 +1,27 @@
+{
+  "name": "code-reviewer-x",
+  "module": "index.ts",
+  "type": "module",
+  "description": "A code review AI tool with multiple  AI tools integration",
+  "keywords": ["code review", "code reviewer", "AI", "code analysis"],
+  "bugs": {
+    "url": "https://github.com/ctrl-hack/code-reviewer-x/issues"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@types/bun": "latest",
+    "husky": "^9.1.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "author": "Jamal Muradov <camal1muradov@gmail.com> (https://www.linkedin.com/in/jamal-muradov/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrl-hack/code-reviewer-x.git"
+  }
+}
